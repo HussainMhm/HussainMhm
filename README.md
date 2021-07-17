@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Here is what I'm working on! 👋
 
 
 - 🔭 I’m currently studying ... Computer Engineering at Marmara University
