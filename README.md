@@ -42,7 +42,7 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://smartlemda.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
