@@ -1,8 +1,8 @@
 ### Hi there, I'm Hussain Abdullatif! 👋
 
 
-- I’m currently studying Computer Engineering at Marmara University
-- I’m currently learning Mobile App Development with React-native
+- I’m studying Computer Engineering at Marmara University
+- I’m learning Mobile App Development with React-native
 - I’m looking to collaborate on React-native
 - I'm a fluent speaker of English, Arabic, and Turkish!
 - Reach me on Hussain.mhmha@gmail.com
