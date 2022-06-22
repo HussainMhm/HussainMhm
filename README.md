@@ -1,4 +1,4 @@
-### Hi there, i'm Hussain Abdullatif! 👋
+### Hi there, I'm Hussain Abdullatif! 👋
 
 
 - I’m currently studying Computer Engineering at Marmara University
