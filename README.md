@@ -5,7 +5,7 @@
 - I’m currently learning Mobile App Development with React-native
 - I’m looking to collaborate on React-native
 - I'm a fluent speaker of English, Arabic, and Turkish!
-- Reach me on Hussain.mhmha@gmail.com or Whatsapp: +90 534 338 0593
+- Reach me on Hussain.mhmha@gmail.com
 
 
 
