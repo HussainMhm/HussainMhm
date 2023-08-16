@@ -9,7 +9,7 @@ In addition to my technical skills, I've served as a Scrum Master in a tech star
 
 Project Management · Software Engineering · Object-Oriented Programming (OOP) · Agile Methodologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,react,git,firebase,mongodb,mysql,wordpress,bootstrap)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,react,git,firebase,mongodb,mysql,wordpress,bootstrap)
 
 
 ## Get in Touch
